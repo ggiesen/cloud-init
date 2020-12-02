@@ -512,5 +512,5 @@ This is a complex example which shows most available features: ::
        via: 11.0.0.1
        metric: 3
 
-.. _netplan: https://launchpad.net/netplan
+.. _netplan: https://netplan.io
 .. vi: textwidth=78
